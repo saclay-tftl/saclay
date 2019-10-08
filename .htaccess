@@ -1,0 +1,24 @@
+
+# Turn mod_rewrite on
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule (?!^site)^(.*)$ /site/$1 [L,NC]
+
+
+<FilesMatch "\.(flv|gif|jpg|jpeg|png|ico)$">
+   Header set Cache-Control "max-age=2592000"
+</FilesMatch>
+<FilesMatch "\.(js|css|pdf|swf)$">
+   Header set Cache-Control "max-age=604800"
+</FilesMatch>
+<FilesMatch "\.(html|htm|txt)$">
+   Header set Cache-Control "max-age=600"
+</FilesMatch>
+<FilesMatch "\.(pl|php|cgi|spl|scgi|fcgi)$">
+   Header unset Cache-Control
+</FilesMatch>
+
+
