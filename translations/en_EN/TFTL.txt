@@ -1,0 +1,42 @@
+introduction
+The game is inspired by works like ET, Super 8, Stranger Things or The Goonies: teenagers with ordinary lives face fantastic events that only they seem to be able to solve.
+They live in different 80s. Technology has made fascinating leaps: domestic robots or gravitational trains to go to the office are normal.
+You play teenagers whose life is monotonous. Duties, brothers and sisters with whom you constantly fight, parents on your back for nothing ...
+Everything is going to change because your city experiences unmistakable events, between inexplicable disappearances, bizarre machines, crazy robots, magic objects, unknowns that declare coming from the past: exciting and dangerous adventures are waiting for you.
+Be careful, you can only rely on yourself or your friends: adults do not believe in these things, or prefer not to see them.
+
+
+
+
+
+The game system
+To make a roll, roll a number of six-sided dice related to your attributes and skills, add the bonuses of your equipment. You must get at least a 6 to succeed.
+Extra hits give bonus effects. Players can help each other and support each other to achieve challenging actions.
+attributes
+The innate characteristics of your character.
+BODY Jump, push, run
+TECH Bidouiller, crocheter, programmer
+HEART Sympathize, persuade, lie
+MIND Solve, understand, investigate
+ skills
+Used to solve an action, according to the sum [A] attribute + Skill + Bonus
+[B] FORCE Lift heavy loads, fight, resist physical stress
+[B] MOVE Climb, balance, run fast
+[B] SNEAK Hiding, stealing, sneaking
+[T] CALCULATE Analyze machines, robots, vessels, or common devices
+[T] PROGRAM Create / Program Electronic Programs or Objects
+[T] TINKER Create / Manipulate machines.
+[H] CHARM Seduce, lie, influence, make friends
+[H] CONTACT Know the right person and know how to contact them (GM agreement)
+[H] LEAD Coordinate the team, keep a common goal, comfort
+[M] COMPREHEND Hold information or find it at school / bookstore.
+[M] EMPATHIZE Understanding a conscious being / cyborg and its weaknesses
+[M] INVESTIGATE Find hidden objects, puzzle solutions, search
+terms
+No points of life. One or more conditions define the state of your character when he grows or experiences too harsh.
+UPSET (-1)
+SCARED (-1)
+EXHAUSTED (-1)
+INJURED (-1)
+BROKEN (4 cumulative conditions / auto failure)
+The effects are cumulative. To heal, your character must find solace with his anchor character, or other kids in the hideout, or with a leader (except BROKEN).
